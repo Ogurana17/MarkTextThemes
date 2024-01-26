@@ -1,0 +1,2 @@
+# MarkTextThemes
+MarkTextから出力するHTMLファイルのスタイルをダークモード対応のGitHub風にする。
