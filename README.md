@@ -11,7 +11,7 @@ MarkTextから出力するHTMLファイルのスタイルをダークモード�
 
 ## 導入方法
 
-下記の手順通りにファイルを配置する。
+下記の手順通りに`GitHubFM.css`を配置する。
 
 <https://github.com/marktext/marktext/blob/develop/docs/EXPORT_THEMES.md>
 
